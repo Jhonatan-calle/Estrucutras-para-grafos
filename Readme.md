@@ -22,8 +22,8 @@ Si no tienes JUnit 5 descargado, sigue estos pasos:
 
 ## Compilación y Ejecución de las Pruebas
 
-En vscode descarga la extencion para llava "Extension Pack for Java" y usa la interfaz de testing
-para ejecutar cada uno por separado o en conjutno
+En vscode descarga la extencion para Java "Extension Pack for Java" y usa la interfaz de testing
+para ejecutar cada uno por separado o en conjunto
 
 ![Imagen ejemplo](lib/imagenGuia.png)
 
