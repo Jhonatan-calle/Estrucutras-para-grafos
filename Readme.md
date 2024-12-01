@@ -1,6 +1,6 @@
 # Algoritmos de Grafos
 
-Este repositorio contiene una implementación de grafos ponderados y el algoritmos 
+Este repositorio contiene una implementación de grafos ponderados y algoritmos 
 como Dijkstra y otros en Java. También incluye pruebas unitarias para validar el correcto 
 funcionamiento de los algoritmos implementados.
 
